@@ -1,0 +1,9 @@
+img {
+    height:25 em;
+}
+.modal-wrap {
+    background: whitesmoke;
+    position: fixed;
+    width: 650px;
+    top:10%;
+}
