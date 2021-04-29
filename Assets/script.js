@@ -10,7 +10,6 @@ burgerIcon.addEventListener("click", () => {
 
 
 
-
 //Modals
 var button = document.getElementById('button');
 var modal = document.getElementById('page-modal');
