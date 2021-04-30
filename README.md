@@ -20,6 +20,7 @@ The Portfolio application is responsive.
 
  
 ##### Deployed Link
+https://macquarts.github.io/Porfolio-updated/
 
 ###### Repository Link
 
